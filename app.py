@@ -73,7 +73,7 @@ def home():
         <div class="container">
 
             <div class="card">
-                <h1>🚀 CI/CD Successfully Deployed </h1>
+                <h1>🚀 CI/CD Successfully Deployed - by Mohammad Amaan </h1>
                 <p>Flask App running smoothly with Docker & AWS EC2!</p>
                 <div class="github">
                     📌 GitHub: <a href="https://github.com/MOHDAMAAN088" target="_blank">MOHDAMAAN088</a>
