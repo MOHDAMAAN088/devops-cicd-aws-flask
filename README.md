@@ -8,3 +8,5 @@ Whenever the developer pushes code to the main branch, GitHub Actions automatica
 ✔ Connects to AWS EC2 via SSH
 ✔ Pulls and runs the latest container
 ✔ Serves live using Nginx reverse proxy
+
+
