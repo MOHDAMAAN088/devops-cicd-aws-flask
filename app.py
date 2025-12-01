@@ -41,7 +41,7 @@ def home():
     </head>
     <body>
         <div class="card">
-            <h1>🚀 CI/CD Successfully Deployed -by Amaan</h1>
+            <h1>🚀 CI/CD Successfully Deployed - by Mohammad Amaan</h1>
             <p>Flask App running smoothly with Docker & AWS EC2!</p>
         </div>
     </body>
