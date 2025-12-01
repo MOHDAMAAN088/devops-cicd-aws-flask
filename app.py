@@ -103,7 +103,7 @@ def home():
             <div class="card">
                 <h2>🎥 YouTube Explanation</h2>
                 <p>
-                     Watch My Quick Explanation On Youtube - 
+                     Watch My Quick Explanation On Youtube - https://youtu.be/dRvgnLDHHJA
                     In this project, we built and deployed a Flask application using Docker containers 
                     and automated the CI/CD pipeline via GitHub Actions on AWS EC2.
                     <br><br>
