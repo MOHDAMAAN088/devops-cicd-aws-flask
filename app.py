@@ -76,7 +76,7 @@ def home():
                 <h1>🚀 CI/CD Successfully Deployed - by Mohammad Amaan </h1>
                 <p>Flask App running smoothly with Docker & AWS EC2!</p>
                 <div class="github">
-                    📌 GitHub: <a href="https://github.com/MOHDAMAAN088" target="_blank">MOHDAMAAN088</a>
+                    📌 GitHub: <a href="https://github.com/MOHDAMAAN088" target="_blank">MOHDAMAAN088 </a> <a href="https://youtu.be/dRvgnLDHHJA" target="_blank">Click here to get a Quick Explanation !</a>
                 </div>
             </div>
 
@@ -104,7 +104,7 @@ def home():
                 <h2>🎥 YouTube Explanation</h2>
                 <p>
                       Watch my quick explanation on 
-                    <a href="https://youtu.be/dRvgnLDHHJA" target="_blank">YouTube</a>.<br><br>
+                    <a href="https://youtu.be/dRvgnLDHHJA" target="_blank">Click here to get a Quick Explanation !</a>.<br><br>
 
                     In this project, we built and deployed a Flask application using Docker containers 
                     and automated the CI/CD pipeline through GitHub Actions on AWS EC2.
