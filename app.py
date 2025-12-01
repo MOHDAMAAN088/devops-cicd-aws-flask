@@ -76,7 +76,7 @@ def home():
                 <h1>🚀 CI/CD Successfully Deployed - by Mohammad Amaan </h1>
                 <p>Flask App running smoothly with Docker & AWS EC2!</p>
                 <div class="github">
-                    📌 GitHub: <a href="https://github.com/MOHDAMAAN088" target="_blank">MOHDAMAAN088 </a> <a href="https://youtu.be/dRvgnLDHHJA" target="_blank">Click here to get a Quick Explanation !</a>
+                    📌 GitHub: <a href="https://github.com/MOHDAMAAN088" target="_blank">MOHDAMAAN088 </a> ▶️ Youtube: <a href="https://youtu.be/dRvgnLDHHJA" target="_blank">Click here to get a Quick Explanation !</a>
                 </div>
             </div>
 
