@@ -1,13 +1,10 @@
-🚀 DevOps CI/CD Pipeline with Docker & AWS Deployment (GitHub Actions)
+📌 About the Project
 
-This project demonstrates a complete DevOps workflow using:
+This DevOps project demonstrates the complete automation of building, packaging, and deploying a Flask web application using CI/CD, Docker, and AWS EC2.
+Whenever the developer pushes code to the main branch, GitHub Actions automatically:
 
-GitHub Actions → Docker → AWS EC2 → Nginx → Automatic Deployment (SSH)
-
-Whenever code is pushed to the main branch, the pipeline:
-
-1️⃣ Builds Docker Image
-2️⃣ Pushes Image to Docker Hub
-3️⃣ SSH into AWS EC2
-4️⃣ Pulls Latest Image & Deploys Container
-5️⃣ App becomes live automatically via Nginx Reverse Proxy
+✔ Builds a Docker image
+✔ Pushes it to Docker Hub
+✔ Connects to AWS EC2 via SSH
+✔ Pulls and runs the latest container
+✔ Serves live using Nginx reverse proxy
