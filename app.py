@@ -36,7 +36,7 @@ def home():
             }
             .card:hover {
                 transform: scale(1.03);
-                box-shadow: 0 0 25px rgba(255, 255, 255, 0.7);
+                box-shadow: 0 0 25px rgba(255, 255, 255, 0.8);
             }
             h1 {
                 margin-bottom: 10px;
@@ -83,23 +83,37 @@ def home():
             <div class="card">
                 <h2>💡 What is DevOps?</h2>
                 <p>
-                    DevOps is a cultural and technical practice that integrates Development and Operations teams
-                    to improve collaboration, automate workflows, and accelerate software delivery with higher
-                    reliability and efficiency. It focuses on Continuous Integration, Continuous Delivery (CI/CD),
-                    automation, and monitoring.
+                    DevOps is a culture and set of practices that combines Development and Operations teams to improve collaboration, 
+                    automate workflows, and deploy software faster and more reliably using CI/CD, monitoring, and automation.
                 </p>
             </div>
 
             <div class="card">
                 <h2>🛠️ DevOps Tools & Their Roles</h2>
                 <ul>
-                    <li><strong>GitHub:</strong> Used for version control, source code management, and team collaboration.</li>
-                    <li><strong>Docker:</strong> Containerization tool that packages apps with their dependencies to run anywhere.</li>
-                    <li><strong>AWS EC2:</strong> Cloud platform that provides virtual servers to host and deploy applications.</li>
-                    <li><strong>GitHub Actions:</strong> Automates CI/CD pipelines to build, test, and deploy applications.</li>
-                    <li><strong>Flask:</strong> Python web framework used to build lightweight web applications.</li>
-                    <li><strong>Nginx:</strong> Web server and reverse proxy for load balancing and request handling.</li>
+                    <li><strong>GitHub:</strong> Version control and team collaboration platform.</li>
+                    <li><strong>Docker:</strong> Packages applications into portable containers.</li>
+                    <li><strong>AWS EC2:</strong> Cloud hosting to deploy applications at scale.</li>
+                    <li><strong>GitHub Actions:</strong> Automates CI/CD pipeline for build & deployment.</li>
+                    <li><strong>Flask:</strong> Lightweight Python web framework for backend apps.</li>
+                    <li><strong>Nginx:</strong> Reverse proxy & load balancer for traffic handling.</li>
                 </ul>
+            </div>
+
+            <div class="card">
+                <h2>🎥 YouTube Explanation of This Project</h2>
+                <p>
+                    In this project, we built and deployed a Flask application using Docker containers 
+                    and automated the CI/CD pipeline via GitHub Actions. The application is hosted on AWS EC2 using 
+                    Docker and can be automatically deployed every time new code is pushed to GitHub.
+                    <br><br>
+                    🔹 Explain CI/CD workflow step by step  
+                    🔹 Show Dockerfile, GitHub Actions YAML file  
+                    🔹 Demonstrate AWS EC2 deployment  
+                    🔹 Show live demo & browser output  
+                    <br><br>
+                    📌 Ideal for a YouTube tutorial, DevOps project showcase, or internship portfolio.
+                </p>
             </div>
 
         </div>
